@@ -2,4 +2,9 @@ helo gies
 
 its xgsddfgsddfgsdfgsfgsdf
 
+<<<<<<< HEAD
 new changrn znsdfn;z xcmvzmxncvmn
+=======
+
+jasaskmssdnnxncnxcvnzxcnflkzsd
+>>>>>>> about_js
